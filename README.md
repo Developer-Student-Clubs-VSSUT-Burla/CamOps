@@ -1,2 +1,22 @@
 # opencv_camera
-Face Detection App using OpenCV This android application is developed using Java and can detect the no of faces in a live video stream.Looking to add new features and functionality to make the app more interactive and useful like conversion of one imabe format into another , image size manipulation , etc 
+- Face Detection App using OpenCV
+
+# About
+- This android application can detect and count the number of faces detected in a live video stream
+
+# Installation
+
+- Install directly from android studio or through apks
+
+# Tech Stack
+
+- Java
+- Android
+- Native C++ Library
+- OpenCV
+
+# To do
+
+- Capturing photos through the app
+- Performing size modification and format conversion on the captured images
+- Applying image processing algorithms such as thresholding , wiener deconvolution
