@@ -1,4 +1,4 @@
-# opencv_camera
+# CamOps
 - Face Detection App using OpenCV
 
 # About
