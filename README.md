@@ -28,3 +28,17 @@
 - If you want to contribute, we prefer that you create an issue before making a PR and link your PR to that issue.
 - If you have modified/added code work, make sure that app is working properly before submitting
 - Do not update the README.md.
+
+# Contributors:
+
+### Credits goes to these people:✨
+
+<table>
+	<tr>
+		<td>
+<a href="https://github.com/Developer-Student-Clubs-VSSUT-Burla/CamOps/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Developer-Student-Clubs-VSSUT-Burla/CamOps" />
+</a>
+		</td>
+	</tr>
+</table>
