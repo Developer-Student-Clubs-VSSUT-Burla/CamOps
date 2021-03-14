@@ -49,7 +49,7 @@ git clone https://github.com/<your_user_name>/Developer-Student-Clubs-VSSUT-Burl
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Book-Recommendation-Analysis
+cd .\CamOps\
 ```
 
 **4.** Add a reference(remote) to the original repository.
@@ -67,7 +67,7 @@ git remote -v
 **6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
 
 ```
-git pull upstream main
+git pull upstream master
 ```
 
 **7.** Create a new branch.
