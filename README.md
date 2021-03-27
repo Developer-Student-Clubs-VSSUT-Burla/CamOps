@@ -14,10 +14,12 @@
 
 # Tech Stack
 
-- Java
-- Android
-- Native C++ Library
-- OpenCV
+
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img alt="Native C++ Library" src="https://img.shields.io/badge/Native C++ Library%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23f01742.svg?&style=for-the-badge&logo=openCV&logoColor=white"/>
+
 
 # To do
 
