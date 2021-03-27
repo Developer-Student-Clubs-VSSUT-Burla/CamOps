@@ -33,6 +33,21 @@
 - If you have modified/added code work, make sure that app is working properly before submitting
 - Do not update the README.md.
 
+
+# Contributors:
+
+### Credits goes to these people:✨
+
+<table>
+	<tr>
+		<td>
+<a href="https://github.com/Developer-Student-Clubs-VSSUT-Burla/CamOps/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Developer-Student-Clubs-VSSUT-Burla/CamOps" />
+</a>
+		</td>
+	</tr>
+</table>
+
 # How to Contribute
 
 ## To start contributing, follow the below steps: 
@@ -105,4 +120,5 @@ git push -u origin <your_branch_name>
 
 
 **14.** Click on `Create Pull Request`.
+
 
