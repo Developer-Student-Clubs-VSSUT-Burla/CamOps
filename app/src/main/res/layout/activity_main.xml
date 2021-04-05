@@ -9,14 +9,7 @@
 
 
 
-    <org.opencv.android.JavaCameraView
-        android:id="@+id/cam"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
 
-
-        app:show_fps="true"
-        android:visibility="visible"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -26,5 +19,30 @@
         android:text="Find faces"
         android:onClick="onlogin"
         />
+    <com.example.opencvcamera.cameraView
+        android:id="@+id/cameraView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        />
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/image"
+        android:background="@drawable/ic_launcher_foreground"
+        android:layout_below="@+id/cameraView"
+        android:layout_centerHorizontal="true"/>
+    <ToggleButton
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/toggle"
+        android:layout_below="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:checked="false"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="20dp"/>
+
 </RelativeLayout>
 
